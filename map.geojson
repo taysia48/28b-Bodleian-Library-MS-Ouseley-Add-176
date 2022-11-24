@@ -10,7 +10,7 @@
     "geometry":{"type":"Point","coordinates":[1930,3650]}},
   {"type":"Feature","properties":
     {"id":2,
-    "chapter":"Chapter 2: - Who is the Hero?",
+    "chapter":"Chapter 2: - ",
     "zoom":4,
     "image":"img/pictorial-st-louis-1832.png",
     "source-credit":"",
